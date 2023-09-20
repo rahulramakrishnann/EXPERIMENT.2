@@ -136,7 +136,7 @@ ch = 1;
 
 ## OUTPUT
 ![image](https://github.com/rahulramakrishnann/EXPERIMENT.2/assets/143045415/3bcb8f72-466b-4c75-a228-c9d9e342bfef)
-![image](https://github.com/rahulramakrishnann/EXPERIMENT.2/assets/143045415/cc3e4579-f75d-4ce8-86d7-c022912cce56)
+![image](https://github.com/rahulramakrishnann/EXPERIMENT.2/assets/143045415/2bad0fd4-af5a-4343-8c24-d327f928dbc6)
 ![image](https://github.com/rahulramakrishnann/EXPERIMENT.2/assets/143045415/2267dd40-1253-4391-9ebd-31695a7b902f)
 ![image](https://github.com/rahulramakrishnann/EXPERIMENT.2/assets/143045415/44703217-7492-475e-ad65-c1d8e5d231f8)
 
